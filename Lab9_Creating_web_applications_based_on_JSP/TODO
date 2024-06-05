@@ -1,0 +1,21 @@
+login
+register
+
+we can access model in jsp using tags and stuff
+
+create ad
+display ad
+ad list
+
+
+user:
+id : serial
+username : char(128)
+email : char(128)
+name : char(128)
+password : char(128)
+role : int
+
+
+ad:
+//TODO add ad

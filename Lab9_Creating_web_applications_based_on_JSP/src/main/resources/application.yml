@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    username: postgres
+    password: postgres
+    url: jdbc:postgresql://localhost:5433/ad
+
+google.recaptcha.key.site: "6Lenjl4oAAAAANgknjB0kmafS6MA03GrAPp804PD"
+google.recaptcha.key.secret: "6Lenjl4oAAAAAFt9plhCtdltbLAm_FCZgoGX7hn_"
+#logging:
+#  level:
+#    root: trace
